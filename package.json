@@ -1,0 +1,29 @@
+{
+  "name": "react-redux-structure",
+  "version": "1.0.0",
+  "description": "React with Redux project structure",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next src",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Siriwut Ponwapee",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^3.0.3",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-slick": "^0.14.11",
+    "styled-components": "^2.1.2"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.1.7",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
